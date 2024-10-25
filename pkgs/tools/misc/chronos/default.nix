@@ -21,7 +21,7 @@ rustPlatform.buildRustPackage rec {
   meta = with lib; {
     description = "chronos is a lightweight speedrun timer that runs in your terminal.";
     license = licenses.mit;
-    maintainers = with maintainers; [ Burb ];
+    maintainers = with maintainers; [ burbruee ];
     homepage = "https://github.com/DarkRTA/chronos";
     platforms = platforms.unix;
     mainProgram = "chronos";

@@ -3247,6 +3247,12 @@
     name = "Builditluc";
     keys = [ { fingerprint = "FF16E475723B8C1E57A6B2569374074AE2D6F20E"; } ];
   };
+  burbruee = {
+    email = "burbruee@gmail.com";
+    github = "burbruee";
+    githubId = "1649002";
+    name = "Burb Ruee";
+  };
   buurro = {
     email = "marcoburro98@gmail.com";
     github = "buurro";
