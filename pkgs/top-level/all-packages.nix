@@ -4490,6 +4490,8 @@ with pkgs;
 
   changedetection-io = callPackage ../servers/web-apps/changedetection-io { };
 
+  chronos = callPackage ../tools/misc/chronos { };
+
   clini = callPackage ../tools/misc/clini { };
 
   clipster = callPackage ../tools/misc/clipster { };
